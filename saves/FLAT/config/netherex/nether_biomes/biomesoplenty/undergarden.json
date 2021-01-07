@@ -1,0 +1,10 @@
+{
+	"biome": "biomesoplenty:undergarden",
+	"generationWeight": 4,
+	"useDefaultDecorations": true,
+	"isSubBiome": false,
+	"blocks": {},
+	"entities": [],
+	"traits": [],
+	"subBiomes": []
+}

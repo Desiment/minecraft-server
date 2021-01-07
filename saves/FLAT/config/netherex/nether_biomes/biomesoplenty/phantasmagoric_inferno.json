@@ -1,0 +1,10 @@
+{
+	"biome": "biomesoplenty:phantasmagoric_inferno",
+	"generationWeight": 6,
+	"useDefaultDecorations": true,
+	"isSubBiome": false,
+	"blocks": {},
+	"entities": [],
+	"traits": [],
+	"subBiomes": []
+}

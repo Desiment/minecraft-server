@@ -1,0 +1,10 @@
+{
+	"biome": "biomesoplenty:corrupted_sands",
+	"generationWeight": 8,
+	"useDefaultDecorations": true,
+	"isSubBiome": false,
+	"blocks": {},
+	"entities": [],
+	"traits": [],
+	"subBiomes": []
+}
